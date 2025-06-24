@@ -1,2 +1,2 @@
 # my-first-project
-start education 
+start education, it's my start on IT
